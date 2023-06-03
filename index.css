@@ -1,0 +1,30 @@
+h1{
+    color: goldenrod;
+}
+body
+{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    background-image: url("https://th.bing.com/th/id/R.2c834f317d419465fb0733c7ba9a6a43?rik=HKWID3b5rn40KA&riu=http%3a%2f%2fstatic4.depositphotos.com%2f1004032%2f356%2fi%2f450%2fdepositphotos_3569679-stock-photo-poker-table-felt-background.jpg&ehk=yaBCVEbOCX%2bYz3FfIkrsgL%2f3a6gDlPn5cq%2b57lvgwIA%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#message-el
+{
+    font-style: italic;
+}
+button
+{
+    margin: 5px;
+    width: 200px;
+    height: 50px;
+    background-color: goldenrod;
+    border: none;
+    color: darkcyan;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
